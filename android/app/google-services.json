@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504487528358",
+    "project_id": "taskbee-9c25b",
+    "storage_bucket": "taskbee-9c25b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504487528358:android:b94b973a531feb76a1b167",
+        "android_client_info": {
+          "package_name": "com.TaskBee.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKHod-PZJnm3jamHcUgg-jIQRncLkzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
