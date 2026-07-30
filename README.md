@@ -1,16 +1,26 @@
-# task_bee
+# TaskBee
 
-A new Flutter project.
+Flutter task app starter focused on mobile task management flows.
+
+## Preview
+
+<p align="center">
+  <img src="docs/images/cover.svg" alt="TaskBee preview" width="900" />
+</p>
+
+> Note: Some preview images may look slightly blurry due to screenshot compression. Thanks for your understanding.
+
+## Project Type
+
+Flutter App
+
+## Tech Stack
+
+- C++
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
